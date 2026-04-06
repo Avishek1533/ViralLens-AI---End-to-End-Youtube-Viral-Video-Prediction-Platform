@@ -1,1 +1,1 @@
-# ViralLens-AI--End-to-End-Youtube-Viral-Video-Prediction-Platform
+# ViralLens AI: End-to-End-Youtube-Viral-Video-Prediction-Platform
